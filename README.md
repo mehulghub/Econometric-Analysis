@@ -43,7 +43,7 @@ The project performs the following steps:
 ## Data Files
 
 - `Tariff Categories.csv`: Contains information about US tariff categories.
-- `US Tariffs on CHINA.csv`: Contains monthly data on US tariffs imposed on goods from China.
+- `US Tariffs on CHINA.csv`: Contains number of days for each month for which each US tariff category was active on goods from China.
 - `CHNTOT.csv`: Contains the US Import Price Index for goods from China.
 
 
